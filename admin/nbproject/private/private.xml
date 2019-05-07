@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/models/Security_access.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/controllers/Api.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/config/database.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/controllers/Admin.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/models/Maze_model.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/views/api/login_view.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/models/Api_model.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/views/api/home.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Admin/application/views/api/crm.php</file>
+        </group>
+    </open-files>
+</project-private>

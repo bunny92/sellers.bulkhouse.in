@@ -1,0 +1,106 @@
+  body {
+    background-color: #f7f7f7;
+    color: black;
+  }
+  .page-title {
+    font-size: 1.5em;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    padding: 10px;
+    width: 100%;
+
+  }
+
+ 
+  .main-heading {
+    font-size: 1.7em;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    width: 100%;
+  }
+  .main-sub-title {
+      color: #757575;
+    font-weight: 300;
+      font-size: .8em;
+  }
+  
+  .page-sub-title {
+    color: #757575;
+    font-weight: 300;
+      font-size: .9em;
+  }
+  .headings {
+    font-size: 1.7em;
+    font-family: 'Open Sans';
+  }
+    .headbar {
+      padding:10px;
+      border-bottom: 1px solid #eee;
+      height: 68px;
+      width:100%;
+      background-color: white;
+    }
+    .topmenu {
+      font-size: 1.7em;
+
+    }
+    .content-right {
+      float : right;
+      padding: 10px;
+    }
+    .settings {
+      float : right;
+      padding: 10px;
+      margin-right: 10px;
+    }
+
+    .heading_subject {
+      margin-left: 30px;
+      color: #757575;
+      font-family: 'Open Sans';
+      font-weight: 300;
+      font-size: .9em;
+    }
+    .content-divider {
+      margin-left: 30px;
+    }
+    hr {
+      color: #eee;
+      background-color: #eee;
+      margin: 30px;
+    }
+    nav .brand-logo {
+        font-size: 1.1rem;
+    }
+    .dropdown-content :hover {
+        background-color: red;
+        color:white;
+    }
+    .dropdown-content li a:hover {
+        text-decoration: none;
+        color: white;
+    }
+    
+    .input-field label{
+        color:grey;
+        font-size: .8em;
+    }
+    input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea {
+        border-bottom : 1px solid grey;
+    }
+    
+    input:not([type]):focus:not([readonly]), input[type=text]:focus:not([readonly]), input[type=password]:focus:not([readonly]), input[type=email]:focus:not([readonly]), input[type=url]:focus:not([readonly]), input[type=time]:focus:not([readonly]), input[type=date]:focus:not([readonly]), input[type=datetime-local]:focus:not([readonly]), input[type=tel]:focus:not([readonly]), input[type=number]:focus:not([readonly]), input[type=search]:focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]){
+        border-bottom: 1px solid #1a237e;
+        box-shadow: 0 1px 0 0 #1a237e;
+    }
+    input:not([type]):focus:not([readonly])+label, input[type=text]:focus:not([readonly])+label, input[type=password]:focus:not([readonly])+label, input[type=email]:focus:not([readonly])+label, input[type=url]:focus:not([readonly])+label, input[type=time]:focus:not([readonly])+label, input[type=date]:focus:not([readonly])+label, input[type=datetime-local]:focus:not([readonly])+label, input[type=tel]:focus:not([readonly])+label, input[type=number]:focus:not([readonly])+label, input[type=search]:focus:not([readonly])+label, textarea.materialize-textarea:focus:not([readonly])+label {
+        color :#1a237e;
+    }
+    
+    
+    .response-error {
+        color:red; font-size: .8em;
+    }
+    .response-success {
+        color:#1a237e; font-size: .8em;
+    }
